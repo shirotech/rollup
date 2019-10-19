@@ -2,6 +2,7 @@
 /node_modules
 .gobble*
 dist
+!/dist
 _actual
 _actual.js
 coverage
